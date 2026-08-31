@@ -1,0 +1,128 @@
+# ================================
+
+# Java / Maven
+
+# ================================
+
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven wrapper generated files
+
+.mvn/timing.properties
+
+# ================================
+
+# Eclipse
+
+# ================================
+
+.classpath
+.project
+.settings/
+.factorypath
+
+# ================================
+
+# IntelliJ IDEA
+
+# ================================
+
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ================================
+
+# VS Code
+
+# ================================
+
+.vscode/
+
+# ================================
+
+# Spring Boot
+
+# ================================
+
+spring.log
+*.log
+
+# ================================
+
+# Application Configuration
+
+# ================================
+
+# Ignore local/private configuration
+
+application-local.properties
+application-dev.properties
+application-prod.properties
+
+# ================================
+
+# Environment / Secrets
+
+# ================================
+
+.env
+.env.*
+!.env.example
+
+# ================================
+
+# PostgreSQL / Database
+
+# ================================
+
+*.sql
+*.dump
+*.backup
+
+# ================================
+
+# OS Generated Files
+
+# ================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ================================
+
+# Temporary Files
+
+# ================================
+
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# ================================
+
+# Build / Coverage
+
+# ================================
+
+coverage/
+jacoco.exec
+reports/
+
+# ================================
+
+# Uploads / Generated Files
+
+# ================================
+
+uploads/
+generated/
