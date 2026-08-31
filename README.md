@@ -2,6 +2,9 @@
 
 A web-based Bank Management System built with **Spring Boot**, **Spring MVC**, **Hibernate (Spring Data JPA)**, **PostgreSQL**, and a **Bootstrap 5** frontend. Users can create accounts, deposit, withdraw, transfer funds between accounts, view balances, and see full transaction history — all from an attractive, colorful dashboard in the browser.
 
+<img width="1599" height="857" alt="banking" src="https://github.com/user-attachments/assets/3a419f42-95e6-4956-bed8-89bd47df97fc" />
+
+
 ## Features
 - Create, view, update, and delete bank accounts
 - Deposit and withdraw funds
